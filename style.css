@@ -1,0 +1,14 @@
+/*feuille de style bestmotherfuckingwebsite*/
+
+header
+{
+font-size: 12px;
+text-align: right;
+text-decoration: underline;
+}
+
+.inverted
+{
+	color: white;
+	background-color: black;
+}
