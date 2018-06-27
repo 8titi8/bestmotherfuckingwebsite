@@ -30,6 +30,11 @@ blockquote
 	font-size: 14px;
 }
 
+figcaption
+{
+	font-size: 12px;
+}
+
 .inverted
 {
 	color: white;
@@ -39,7 +44,7 @@ blockquote
 
 .fauxlien
 {
-	color: rgb(50,190, 160);
+	color: rgb(50, 190, 160);
 }
 
 .wrong
@@ -57,4 +62,28 @@ blockquote
 .shittyblue
 {
 	color: blue;
+}
+
+.chat
+{
+	float: left;
+	width: 30%;
+	height: 30%;
+	margin: none;
+}
+
+.dessouschat
+{
+	clear: both;
+}
+
+.auteur
+{
+	font-size: 12px;
+	font-style: italic;
+}
+
+.logokopimi
+{
+	text-align: center;
 }
